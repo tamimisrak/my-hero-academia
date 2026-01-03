@@ -1,0 +1,18 @@
+.deku{
+    font: 900;
+    color: blue;
+    width: 50%;
+    background-color: chocolate;
+    border: 50%;
+    border-radius: 10px;
+    align-items: center;
+    position: flex;
+    justify-self: unset;
+    background-image: url(deku.jpg);
+    
+}
+*{
+    /* background-image: url(bakugo.jpg); */
+    mask-repeat: none ;
+
+}
